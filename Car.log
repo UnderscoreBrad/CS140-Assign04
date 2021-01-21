@@ -1,0 +1,14 @@
+Feb 19, 2020 3:25:03 PM assignment04.Car addGas
+INFO: Added 9.0 gallons of gasoline.
+Feb 19, 2020 3:25:03 PM assignment04.Car drive
+INFO: Drove 30.0 miles.
+Feb 19, 2020 3:25:03 PM assignment04.Car drive
+INFO: Used 0.8823529411764706 gallons of gasoline.
+Feb 19, 2020 3:25:03 PM assignment04.Car addGas
+INFO: Added 1.882352941176471 gallons of gasoline.
+Feb 19, 2020 3:25:03 PM assignment04.Car addGas
+INFO: Warning: spilled 0.117647058823529 gallons of gasoline.
+Feb 19, 2020 3:25:03 PM assignment04.Car drive
+INFO: Drove 60.0 miles.
+Feb 19, 2020 3:25:03 PM assignment04.Car drive
+INFO: Used 1.7647058823529411 gallons of gasoline.
